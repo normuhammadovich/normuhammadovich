@@ -3,23 +3,13 @@
 <img  align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=normuhammadovich&label=Profile%20views&color=0e75b6&style=flat" alt="normuhammadovich" /> </p>
 
-- 🔭 I’m currently working on [To Do App](todoapp.com)
+- 👨‍💻 All of my projects are available at [github](https://github.com/normuhammadovich)
 
-- 🌱 I’m currently learning **Cocoa Touch, Cocoapods**
-
-- 👯 I’m looking to collaborate on [To Do App](todoapp.com)
-
-- 🤝 I’m looking for help with [To Do App](todoapp.com)
-
-- 👨‍💻 All of my projects are available at [normuhammadovich.t.me](normuhammadovich.t.me)
-
-- 📝 I regularly write articles on [humble_dev.t.me](humble_dev.t.me)
+- 📝 I regularly write articles on [humble_dev.t.me](https://humble_dev.t.me)
 
 - 💬 Ask me about **Swift, UIKit, Git, Attention to Detail, Time Management, REST API, Organization, JSON, Foundation, Problem Solving Skills, Core Data, Communication, Creativity, Interface Builder, Development Patterns**
 
 - 📫 How to reach me **normuhammadovich@gmail.com**
-
-- 📄 Know about my experiences [humble_dev.t.me](humble_dev.t.me)
 
 - ⚡ Fun fact **I think I am funny**
 
