@@ -5,10 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/normuhammadovich)
 
-- 📝 I regularly write articles on [humble_dev.t.me](https://humble_dev.t.me)
-
-- 💬 Ask me about **Swift, UIKit, Git, Attention to Detail, Time Management, REST API, Organization, JSON, Foundation, Problem Solving Skills, Core Data, Communication, Creativity, Interface Builder, Development Patterns**
-
 - 📫 How to reach me **normuhammadovich@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
@@ -24,4 +20,3 @@
 </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=normuhammadovich&show_icons=true&locale=en&layout=compact" alt="normuhammadovich" /></p>
-n to Detail, Time Management, REST API, Organization, JSON, Foundation, Problem Solving Skills, Core Data, Communication, Creativity, Interface Builder, Development Patterns**
